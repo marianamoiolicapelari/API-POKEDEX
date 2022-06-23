@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "API Pokedex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianamoiolicapelari/API-POKEDEX.git"
+  },
+  "keywords": [
+    "API",
+    "REST"
+  ],
+  "author": "Mariana M C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianamoiolicapelari/API-POKEDEX/issues"
+  },
+  "homepage": "https://github.com/marianamoiolicapelari/API-POKEDEX#readme"
+}
